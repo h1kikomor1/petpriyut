@@ -1,0 +1,12 @@
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\преддиплом\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\преддиплом\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\преддиплом\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\преддиплом\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\преддиплом\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.AuthForm.resources
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\преддиплом\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.MainForm.resources
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\преддиплом\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\преддиплом\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\преддиплом\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\преддиплом\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\преддиплом\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\преддиплом\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.RegForm.resources
